@@ -15,5 +15,5 @@ I defended my Phd degree in Robotics Engineering at [Nazarbayev University](http
 I have actively contributed to the academic community by serving as a reviewer for reputable journals (e.g., IEEE Transactions on Industrial Informatics, IEEE Transactions on Visualization and Computer Graphics) and conferences (e.g., IEEE EDUCON, ICECCO). I am a member of IEEE. During my doctoral studies, I was a visiting student at Tokai University. 
 
 Presently, I am based in Ithaca, NY. I love playing soccer, table tennis, and ice skating in my free time. My name means "paid", and is pronounced "tuolegen". I am open to any discussions or collaboration opportunities.
-> #Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }
